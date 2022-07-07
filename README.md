@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Wzichen/test/edit/main/REA
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src="https://img.fy6b.com/2022/07/06/8fe49eb524743.jpg" alt="fs">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -26,7 +26,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-$y=x^2$
 
 ```
 
@@ -39,6 +38,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 - g
 
 ---
+$$
+\frac{\partial c_i}{\partial t}+\frac{u}{\varepsilon_b}\frac{\partial c_i}{\partial x}+\frac{1-\varepsilon_b}{\varepsilon_b}\frac{3}{r_p}k_{film,i}\left[c_i-c_{p,i}\left(r=r_p\right)\right]=D_{ax,i}\frac{\partial^2c_i }{\partial x^2}
+$$
 
 ### Support or Contact
 
