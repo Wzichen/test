@@ -39,7 +39,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ---
 $$
-\frac{\partial c_i}{\partial t}+\frac{u}{\varepsilon_b}\frac{\partial c_i}{\partial x}+\frac{1-\varepsilon_b}{\varepsilon_b}\frac{3}{r_p}k_{film,i}\left[c_i-c_{p,i}\left(r=r_p\right)\right]=D_{ax,i}\frac{\partial^2c_i }{\partial x^2}
+y=x^2
 $$
 
 ### Support or Contact
